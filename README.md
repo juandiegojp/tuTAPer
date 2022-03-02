@@ -1,4 +1,4 @@
-Nombre del proyecto: **tuTAPer**
+**Nombre del proyecto**: tuTAPer
 
 **Autor**: Juan Diego Jurado Pimentel
 
